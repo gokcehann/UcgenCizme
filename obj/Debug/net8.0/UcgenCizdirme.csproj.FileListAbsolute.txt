@@ -1,0 +1,14 @@
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\UcgenCizdirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\UcgenCizdirme.AssemblyInfoInputs.cache
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\UcgenCizdirme.AssemblyInfo.cs
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\UcgenCizdirme.csproj.CoreCompileInputs.cache
+C:\repo\UcgenCizdirme\bin\Debug\net8.0\UcgenCizdirme.exe
+C:\repo\UcgenCizdirme\bin\Debug\net8.0\UcgenCizdirme.deps.json
+C:\repo\UcgenCizdirme\bin\Debug\net8.0\UcgenCizdirme.runtimeconfig.json
+C:\repo\UcgenCizdirme\bin\Debug\net8.0\UcgenCizdirme.dll
+C:\repo\UcgenCizdirme\bin\Debug\net8.0\UcgenCizdirme.pdb
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\UcgenCizdirme.dll
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\refint\UcgenCizdirme.dll
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\UcgenCizdirme.pdb
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\UcgenCizdirme.genruntimeconfig.cache
+C:\repo\UcgenCizdirme\obj\Debug\net8.0\ref\UcgenCizdirme.dll
